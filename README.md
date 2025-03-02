@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-[My name is Jack](https://www.youtube.com/watch?v=AfIOBLr1NDU&t=2s), and I currently work as a lead software engineer at Aico HomeLink 🌎
+[My name is Jack](https://www.youtube.com/watch?v=AfIOBLr1NDU&t=2s) - I work as a staff engineer at Equals Money 🌎
 
 <a href="https://github.com/Jackthomsonn">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=Jackthomsonn&theme=transparent&hide=issues,contribs&count_private=true&hide_title=false&show_icons=true&include_all_commits=true&text_bold=false&hide_border=true" />
