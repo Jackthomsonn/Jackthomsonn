@@ -1,7 +1,7 @@
 ### Hey there! 👋
 
 <p>
-  Staff Software Engineer with a focus on aligning technical solutions to business goals. Experienced in cloud, DevOps, and modern full-stack development.
+  Staff Software Engineer with a focus on aligning technical solutions to business goals. Experienced in cloud technologies, DevOps practices, and modern full-stack development.
 </p>
 
 <a href="https://github.com/Jackthomsonn">
