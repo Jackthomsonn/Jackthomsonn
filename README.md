@@ -1,7 +1,7 @@
 ### Hey there! 👋
 
 <p>
-  Software Engineer with a focus on aligning technical solutions to business goals. Experienced in Cloud, DevOps, and modern full-stack development.
+  An experienced software engineer with a focus on aligning technical solutions to business goals. Experienced in Cloud, DevOps, and modern full-stack development
 </p>
 
 <a href="https://github.com/Jackthomsonn">
